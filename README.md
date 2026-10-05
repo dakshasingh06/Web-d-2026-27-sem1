@@ -1,2 +1,2 @@
-# Web-d-2026-27-sem1
+# WebD-2026-27-sem-1
 HTML and CSS
